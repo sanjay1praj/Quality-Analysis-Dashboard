@@ -1,4 +1,7 @@
-# Quality Analysis Dashboard
+# Automative Quality Analysis Dashboard
+
+## Business Objective
+Analyze automotive sales, product performance, recalls, service quality, and customer sentiment to identify trends and support decision-making.
 
 ## Overview
 This Power BI dashboard provides insights into quality performance, sales trends, product performance, and regional analysis.
